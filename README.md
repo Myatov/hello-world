@@ -1,5 +1,4 @@
 # hello-world
-just learning GitHub
 
 Hi people!
 
